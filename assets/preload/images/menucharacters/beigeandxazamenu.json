@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "beigeandxazamenu yay",
+	"idle_anim": "beigeandxazamenu dance",
+	"position": [
+		80,
+		-65
+	],
+	"scale": 1.6,
+	"image": "beigeandxazamenu",
+	"flipX": false
+}
