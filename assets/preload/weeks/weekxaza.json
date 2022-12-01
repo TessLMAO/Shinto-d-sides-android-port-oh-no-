@@ -1,0 +1,32 @@
+{
+	"storyName": "yo hit me up with that xaza",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "forest",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"beigeandxazamenu",
+		""
+	],
+	"songs": [
+		[
+			"Xaza",
+			"xaza",
+			[
+				96,
+				64,
+				128
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Xaza Week",
+	"hiddenUntilUnlocked": false
+}
