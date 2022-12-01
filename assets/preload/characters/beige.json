@@ -1,0 +1,208 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-950,
+				-840
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "xaza_pokeballend",
+			"indices": [
+				25,
+				25
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-950,
+				-840
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "xaza_pokeballend",
+			"indices": [
+				25,
+				25
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-950,
+				-840
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "xaza_pokeballend",
+			"indices": [
+				25,
+				25
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-950,
+				-840
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "xaza_pokeballend",
+			"indices": [
+				25,
+				25
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-950,
+				-840
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "xaza_pokeballend",
+			"indices": [
+				25,
+				25
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-950,
+				-840
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "xaza_pokeballend",
+			"indices": [
+				25,
+				25
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-950,
+				-840
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "xaza_pokeballend",
+			"indices": [
+				25,
+				25
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-950,
+				-840
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "xaza_pokeballend",
+			"indices": [
+				25,
+				25
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-950,
+				-840
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "xaza_pokeballend",
+			"indices": [
+				25,
+				25
+			]
+		},
+		{
+			"offsets": [
+				-950,
+				-840
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "endloop",
+			"indices": [
+				24,
+				24,
+				24
+			],
+			"name": "xaza_pokeballend"
+		},
+		{
+			"offsets": [
+				-950,
+				-840
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "end",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				24,
+				24,
+				24,
+				24,
+				24,
+				24,
+				24
+			],
+			"name": "xaza_pokeballend"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/xaza_pokeball",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "beige",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		193,
+		131
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 6.50000000000001
+}

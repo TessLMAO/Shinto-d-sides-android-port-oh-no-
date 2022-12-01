@@ -1,0 +1,120 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-460,
+				-110
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Xaza IdleLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-460,
+				-110
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Xaza IdleRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-460,
+				-110
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Xaza Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-460,
+				-110
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Xaza Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-480,
+				-110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Xaza Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-480,
+				-110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Xaza Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-468,
+				-110
+			],
+			"anim": "end",
+			"fps": 24,
+			"name": "Xaza End",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-468,
+				-110
+			],
+			"anim": "endloop",
+			"fps": 24,
+			"name": "Xaza End",
+			"indices": [
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/xaza",
+	"position": [
+		-200,
+		340
+	],
+	"healthicon": "xaza",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		84,
+		148
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 5,
+	"scale": 7
+}
