@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Retry.png"><SubTexture name="Retry retryidle0000" x="0" y="0" width="192" height="104" frameX="-1" frameY="-21" frameWidth="200" frameHeight="125" />
+<SubTexture name="Retry retryidle0001" x="0" y="0" width="192" height="104" frameX="-1" frameY="-21" frameWidth="200" frameHeight="125" />
+<SubTexture name="Retry retryidle0002" x="0" y="0" width="192" height="104" frameX="-1" frameY="-21" frameWidth="200" frameHeight="125" />
+<SubTexture name="Retry retryidle0003" x="192" y="0" width="192" height="97" frameX="-1" frameY="-28" frameWidth="200" frameHeight="125" />
+<SubTexture name="Retry retryidle0004" x="192" y="0" width="192" height="97" frameX="-1" frameY="-28" frameWidth="200" frameHeight="125" />
+<SubTexture name="Retry retryidle0005" x="192" y="0" width="192" height="97" frameX="-1" frameY="-28" frameWidth="200" frameHeight="125" />
+<SubTexture name="Retry retryidle0006" x="0" y="104" width="192" height="89" frameX="-1" frameY="-36" frameWidth="200" frameHeight="125" />
+<SubTexture name="Retry retryidle0007" x="0" y="104" width="192" height="89" frameX="-1" frameY="-36" frameWidth="200" frameHeight="125" />
+<SubTexture name="Retry retryidle0008" x="0" y="104" width="192" height="89" frameX="-1" frameY="-36" frameWidth="200" frameHeight="125" />
+<SubTexture name="Retry retryidle0009" x="0" y="104" width="192" height="89" frameX="-1" frameY="-36" frameWidth="200" frameHeight="125" />
+<SubTexture name="Retry retryidle0010" x="0" y="104" width="192" height="89" frameX="-1" frameY="-36" frameWidth="200" frameHeight="125" />
+<SubTexture name="Retry retryidle0011" x="0" y="104" width="192" height="89" frameX="-1" frameY="-36" frameWidth="200" frameHeight="125" />
+<SubTexture name="Retry retryidle0012" x="0" y="104" width="192" height="89" frameX="-1" frameY="-36" frameWidth="200" frameHeight="125" />
+<SubTexture name="Retry retryconfirm0000" x="0" y="193" width="184" height="87" frameX="-1" frameY="-38" frameWidth="200" frameHeight="125" />
+<SubTexture name="Retry retryconfirm0001" x="0" y="193" width="184" height="87" frameX="-1" frameY="-38" frameWidth="200" frameHeight="125" />
+<SubTexture name="Retry retryconfirm0002" x="0" y="193" width="184" height="87" frameX="-1" frameY="-38" frameWidth="200" frameHeight="125" />
+<SubTexture name="Retry retryconfirm0003" x="184" y="193" width="184" height="85" frameX="-1" frameY="-40" frameWidth="200" frameHeight="125" />
+<SubTexture name="Retry retryconfirm0004" x="184" y="193" width="184" height="85" frameX="-1" frameY="-40" frameWidth="200" frameHeight="125" />
+<SubTexture name="Retry retryconfirm0005" x="184" y="193" width="184" height="85" frameX="-1" frameY="-40" frameWidth="200" frameHeight="125" />
+<SubTexture name="Retry retryconfirm0006" x="192" y="104" width="185" height="89" frameX="-1" frameY="-36" frameWidth="200" frameHeight="125" />
+<SubTexture name="Retry retryconfirm0007" x="192" y="104" width="185" height="89" frameX="-1" frameY="-36" frameWidth="200" frameHeight="125" />
+<SubTexture name="Retry retryconfirm0008" x="192" y="104" width="185" height="89" frameX="-1" frameY="-36" frameWidth="200" frameHeight="125" />
+</TextureAtlas>
